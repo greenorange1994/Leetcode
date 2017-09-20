@@ -1,2 +1,2 @@
 # Leetcode
-Keep fighting for full-time jobs!
+Linked list has a lot of fun...
